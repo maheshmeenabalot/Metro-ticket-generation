@@ -1,0 +1,9 @@
+{
+    "stations": {
+      "A": { "startStation": true, "price": 0 },
+      "B": { "price": 5 },
+      "C": { "price": 15 },
+      "D": { "lastStation": true, "price": 50 }
+    }
+  }
+  
